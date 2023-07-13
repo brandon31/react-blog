@@ -7,36 +7,35 @@ export default function About() {
       <Container>
         <h1 className="m-5">ABOUT ME</h1>
         <p>
-          Hi, I'm <b>Nabil Suleiman</b>. Welcome to my blog page where I post
-          about things on my daily life and tips on what I have knowledge on.
-          I'm a programmer, and I started programming when I was 15 years and I
-          am now 18, close to turning 19. I'm a Software Engineer major, and I
-          consider everything I know because I'm self-taught, and I go online, I
-          look stuff up & research all of that.
+          Hi, I'm <b>Nabil Suleiman</b>. Welcome to my blog page, where I post
+          things in my daily life and tips on what I know. I'm a programmer, and
+          I started programming when I was 15 years and now 18, close to turning
+          19. I'm a Software Engineer major, and I consider everything I know
+          because I'm self-taught and I go online, I look stuff up & research
+          all of that.
         </p>
         <h3>Why I got into programming?</h3>
         <p>
-          So as a kid, I was always one of those kid who can do very well in
-          school, but had to put very minimum effort in & I'm sure you know who
-          those kids are. This was great, because I didn't have to do homework,
-          or study & never worry about doing poorly on a test, but I still never
-          fail challenge, and this led to me being bored in class and not having
-          much to do. So as a kid, I was always curious how things work and why
-          they work. So one day, I went online & search
-          <strong>"How do computers work"</strong>
-          and I watched a few videos, and I was like
-          <strong>
-            <i> WOW !! This is really interesting! </i>
-          </strong>
-          And through researching I eventually came to programming. Programming
-          was completely something new to me. I never heard of it, my teachers
+          So as a kid, I was always one of those kids who could do very well in
+          school but had to put very minimum effort in & I'm sure you know who
+          those kids are. That was great because I didn't have to do homework or
+          study & never worry about doing poorly on a test, but I never fail a
+          challenge, and this led to me being bored in class and not having much
+          to do. So as a kid, I was always curious about how things work and why
+          they work. So one day, I went online & search{" "}
+          <b>"How do computers work"</b> and I watched a few videos, and I was
+          like{" "}
+          <b>
+            <i>"WOW !! This is interesting!"</i>
+          </b>{" "}
+          And through research, I eventually came to programming. Programming
+          was something completely new to me. I never heard of it. My teachers
           never talked about it. It was just completely new to me. I started
-          learning <strong>HTML & CSS</strong> through watching tutorials
-          online. And after doing it for probably a day, I became immediately
-          addicted. That was the first time for me, that I felt slightly
-          challenged & and it was just an amazing feeling for me, beacuse I was
-          actually having to think logically, and just do awesome things on a
-          computer.
+          learning <b>HTML & CSS</b> by watching tutorials online. And after
+          doing it for probably a day, I became immediately addicted. That was
+          the first time for me that I felt slightly challenged & and it was an
+          amazing feeling for me because I was actually having to think
+          logically and do awesome things on a computer.
         </p>
         <h3>How I learned programming?</h3>
         <p>
@@ -65,10 +64,10 @@ export default function About() {
           not really at an advance level.
         </p>
         <p>
-          Now after getting pretty decent at <b>C#</b>. I joined discord server,
-          where you can join a competition, answer some questions & you get
-          graded base on your performace. So I asked the person who's running
-          it, and I was like{" "}
+          Now after getting pretty decent at <b>C#</b>. I joined a discord
+          server, where you can join a competition, answer some questions & you
+          get graded base on your performace. So I asked the person who's
+          running it, and I was like{" "}
           <b>
             <i>"Hey, can I write this in C#"</i>
           </b>{" "}
